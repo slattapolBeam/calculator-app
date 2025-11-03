@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 🔹 ชื่อแอป -->
+    <string name="app_name">Smart Calculator</string>
+
+    <!-- 🔹 หน้าจอแสดงผล -->
+    <string name="display_default">0</string>
+
+    <!-- 🔹 ปุ่มตัวเลข -->
+    <string name="btn_0">0</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+
+    <!-- 🔹 ปุ่มเครื่องหมาย -->
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">−</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_equals">=</string>
+
+    <!-- 🔹 ปุ่มฟังก์ชันอื่นๆ -->
+    <string name="btn_clear">AC</string>
+    <string name="btn_delete">DEL</string>
+    <string name="btn_percent">%</string>
+    <string name="btn_dot">.</string>
+    <string name="btn_sign">±</string>
+
+    <!-- 🔹 Content Description (เพื่อการเข้าถึง) -->
+    <string name="cd_display">หน้าจอแสดงผล</string>
+    <string name="cd_button_number">ปุ่มตัวเลข</string>
+    <string name="cd_button_operator">ปุ่มเครื่องหมายคำนวณ</string>
+    <string name="cd_button_clear">ปุ่มล้างค่า</string>
+
+</resources>
